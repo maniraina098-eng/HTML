@@ -1,0 +1,48 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    background-color: lightcyan;
+}
+
+.heading {
+    color: blue;
+    text-align: center;
+    background: linear-gradient(to right, red, blue);
+    padding: 20px;
+}
+
+.heading:hover {
+    color: red;
+}
+
+.pic {
+    padding-right: 20%;
+}
+
+.pic p {
+    padding-left: 30%;
+}
+
+.pic img {
+    padding-left: 50%;
+}
+
+.insta {
+    color: brown;
+    text-align: center;
+    background: linear-gradient(to right, yellow);
+}
+
+.play h2 {
+    color: brown;
+}
+.play {
+    padding-left: 40%;
+}
+.statistics h2 {
+    color: brown;
+    padding-left: 30%;
+}
+.statistics {
+    padding-left: 20%;
+}
