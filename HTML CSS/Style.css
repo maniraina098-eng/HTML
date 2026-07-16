@@ -1,7 +1,7 @@
 * {
     margin: 5px;
     padding: 5px;
-    background-color: lightcyan;
+    background-color: lightgray;
 }
 
 .heading {
@@ -27,22 +27,29 @@
     padding-left: 50%;
 }
 
-.insta {
+.insta h1 {
     color: brown;
     text-align: center;
-    background: linear-gradient(to right, yellow);
+    background: linear-gradient(yellow);
+}
+
+.insta a {
+    padding-left: 40%;
+}
+
+.play {
+    padding-left: 40%;
 }
 
 .play h2 {
     color: brown;
 }
-.play {
-    padding-left: 40%;
+
+.statistics {
+    padding-left: 20%;
 }
+
 .statistics h2 {
     color: brown;
     padding-left: 30%;
-}
-.statistics {
-    padding-left: 20%;
 }
